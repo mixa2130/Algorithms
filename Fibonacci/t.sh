@@ -1,6 +1,6 @@
 #!/bin/bash
 
-app="apps/s"
+app="object_name"
 limit="2s"
 
 if [ "$#" -ne 0 ]; then
